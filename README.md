@@ -1,4 +1,4 @@
-# yii2-micro
+# yii2-minimal
 
 Yii2 框架精简版 `composer.json` 配置
 
